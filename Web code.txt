@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Omnia Development | St. Louis Property Developers</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">Omnia Development</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#investors">Investors</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Reviving Neighborhoods. Rebuilding Value.</h2>
+      <p>Residential transformation and new builds across Greater St. Louis and beyond.</p>
+      <a href="#projects" class="btn">View Projects</a>
+    </div>
+  </section>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About Omnia</h2>
+      <p>Founded in 2025 and headquartered in St. Louis, MO, Omnia Development specializes in transforming distressed and underutilized properties into valuable, livable homes and communities. We operate 15–45 minutes outside of major metros where value and opportunity align.</p>
+    </div>
+  </section>
+
+  <section id="services" class="section gray-bg">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Dilapidated Property Acquisitions</h3>
+          <p>We source and revive distressed homes to bring them back to life.</p>
+        </div>
+        <div class="card">
+          <h3>Foreclosure Redevelopment</h3>
+          <p>Maximize ROI through smart foreclosure strategies and rehab.</p>
+        </div>
+        <div class="card">
+          <h3>Single-to-Multi Conversions</h3>
+          <p>Reimagining spaces to expand housing and optimize zoning.</p>
+        </div>
+        <div class="card">
+          <h3>Lot Subdivision</h3>
+          <p>We turn large parcels into high-efficiency residential plots.</p>
+        </div>
+        <div class="card">
+          <h3>New Home Construction</h3>
+          <p>From raw land to modern builds, designed with affordability in mind.</p>
+        </div>
+        <div class="card">
+          <h3>Neighborhood Revitalization</h3>
+          <p>Investing in long-term community upliftment and aesthetics.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+    <div class="container">
+      <h2>Featured Projects</h2>
+      <p>Coming Soon: Phase I of Jefferson Acres – a 24-home community in suburban St. Louis.</p>
+    </div>
+  </section>
+
+  <section id="investors" class="section cta">
+    <div class="container">
+      <h2>Invest with Omnia</h2>
+      <p>Partner with us on high-yield, purpose-driven residential developments.</p>
+      <a href="#contact" class="btn">Connect Now</a>
+    </div>
+  </section>
+
+  <section id="contact" class="section gray-bg">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:info@omniadevelopment.com">info@omniadevelopment.com</a></p>
+      <p>Location: St. Louis, Missouri</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Omnia Development. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
